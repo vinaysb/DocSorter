@@ -1,0 +1,7 @@
+# DocSorter.py: 13
+# TestData\DocSorter.py: 12
+docx2txt == 0.7
+
+# DocSorter.py: 14
+# TestData\DocSorter.py: 13
+profanityfilter == 2.0.6
